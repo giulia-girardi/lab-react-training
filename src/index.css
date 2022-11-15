@@ -35,3 +35,16 @@ code {
   margin: 2%;
   padding: 0 2%;
 }
+
+.color-box {
+  border: 1px solid black;
+  margin: 2%;
+  padding: 0 2%;
+}
+
+.random {
+  border: 1px solid black;
+  margin: 2%;
+  padding: 0 2%;
+  text-align: left;
+}
